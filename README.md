@@ -1,4 +1,6 @@
-## Hi there 👋 I am an experienced math teacher. A while ago I decided to change my sector. My logical thinking skills and passion for complex problems attracted me to the software field. That's why I am learning software. Nowadays I am doing projects to improve myself in this field.
+## Hi there 👋 I am Merve Uçar
+
+A while ago I decided to change my sector. My logical thinking skills and passion for complex problems attracted me to the software field. That's why I am learning software. Nowadays I am doing projects to improve myself in this field.
 
 <!--
 **mucarrr/mucarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
