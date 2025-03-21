@@ -1,9 +1,14 @@
 ## Hi there 👋 I am Merve Uçar
 
-- 🔭 I’m a former Math teacher and a new software developer.
-- 🌱 I'm currently studying in the field of software development, I'm currently doing projects on HTML, CSS, JAVASCRIPT, React.JS and Redux.
-- 👀 I'm curious about complex problems and logical thinking skills.
-- 👯 I’m looking to collaborate with friends who have creative ideas and can look new projects in different ways.
-- ✍️ My aim is to develop myself in the software field and create effective projects. 
-- 📫 How to reach me: mucar2326@gmail.com
+🔭 I’m a Front-End Developer passionate about building efficient and user-friendly applications.
+
+🌱 I am currently working on projects using JavaScript, TypeScript, React.js, and Redux.
+
+👀 I enjoy solving complex problems and continuously improving my logical thinking skills.
+
+🚀 My goal is to learn new technologies and advance my career as a Full-Stack Developer.
+
+👯 I’m looking to collaborate with creative minds who bring fresh perspectives to projects.
+
+📫 You can reach me at: mucar2326@gmail.com
 
