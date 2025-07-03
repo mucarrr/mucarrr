@@ -2,7 +2,7 @@
 
 🔭 I’m a Front-End Developer passionate about building efficient and user-friendly applications.
 
-🌱 I am currently working on projects using JavaScript, TypeScript, React.js, and Redux.
+🌱 I am currently working on projects using JavaScript, TypeScript, React.js, Redux and Next.js.
 
 👀 I enjoy solving complex problems and continuously improving my logical thinking skills.
 
