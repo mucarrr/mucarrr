@@ -6,7 +6,7 @@
 
 👀 I enjoy solving complex problems and continuously improving my logical thinking skills.
 
-🚀 My goal is to learn new technologies and advance my career as a Full-Stack Developer.
+🚀 I am currently learning new technologies and advancing my career as a Full-Stack Developer.
 
 👯 I’m looking to collaborate with creative minds who bring fresh perspectives to projects.
 
